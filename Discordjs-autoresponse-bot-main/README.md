@@ -1,5 +1,3 @@
-# THIS REPOSITORY IS NO LONGER BEING ACTIVELY DEVELOPED AND CONTAINS MANY VULNERABILITIES, PLEASE REVIEW CODE BEFORE USING.
-
 # This is a discord bot which allows you to automatically respond to a message containg a specific word or phrase.
 
 # Installation
@@ -34,12 +32,3 @@ To add more auto responses, you will need to add a new file to the `autoresponse
     "Hey! This is just a warning to tell you that your server is running in the offline mode to allow cracked players to join. There is nothing to worry about!"
   ]
 }
-```
-
-# Contributing
-
-To contribute to the bot, you can either fork the repository or create a new issue.
-
-# Credits
-
-Thanks to https://milrato.eu /--/ Discord: Tomato#6966 for the base code.
